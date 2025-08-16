@@ -1,6 +1,6 @@
 # Python Honeypot
 
-This repository contains a simple honeypot written in Python.  A honeypot is a decoy system designed to attract and detect attackers.  It works much like a pot of honey attracting flies: attackers interact with the honeypot instead of your real services, and the honeypot logs their behaviour【896866203660465†L20-L28】.  A basic honeypot consists of three parts—listeners, logging and service emulation【896866203660465†L95-L100】—and this project implements those using only the Python standard library.
+Simple honeypot written in Python.  A honeypot is a decoy system designed to attract and detect attackers.  It works much like a pot of honey attracting flies: attackers interact with the honeypot instead of your real services, and the honeypot logs their behaviour【896866203660465†L20-L28】.  A basic honeypot consists of three parts—listeners, logging and service emulation【896866203660465†L95-L100】—and this project implements those using only the Python standard library.
 
 ## Features
 
